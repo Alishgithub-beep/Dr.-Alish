@@ -5,3 +5,6 @@ langchain_huggingface
 faiss-cpu
 pypdf
 streamlit
+sentence-transformers
+torch
+transformers
